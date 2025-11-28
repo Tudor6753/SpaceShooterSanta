@@ -1,0 +1,12 @@
+{
+  "sound_volume": 1.0,
+  "music_volume": 0.8,
+  "fullscreen": false,
+  "vsync": true,
+  "resolution_width": 1920,
+  "resolution_height": 1080,
+  "high_score": 0,
+  "achievements": {},
+  "particle_quality": "ultra",
+  "show_fps": true
+}
